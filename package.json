@@ -1,6 +1,6 @@
 {
   "name": "santiment-trollbox-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "dependencies": {
     "autobahn": "^17.5.1",
